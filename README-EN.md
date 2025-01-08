@@ -97,3 +97,4 @@ You shall then open `webpack-dist/index.html` (not `src/index.html`) with your w
 
 - [Snack](https://github.com/Snack-X): The original author of the project
 - [申しコミ](https://github.com/0auBSQ): Added support to `A`,`B`,`C`,`F`, and `G`notes
+- [Wei-Cheng Yeh (IID)](https://github.com/IepIweidieng)：Added support to `#BARLINEOFF` and `#BARLINEON`

@@ -97,3 +97,4 @@ npm run build
 
 - [Snack](https://github.com/Snack-X)：项目的原作者
 - [申しコミ](https://github.com/0auBSQ)：添加了对`A`、`B`、`C`、`F`、`G`音符的支持
+- [Wei-Cheng Yeh (IID)](https://github.com/IepIweidieng)：添加了对`#BARLINEOFF`、`#BARLINEON`的支持
