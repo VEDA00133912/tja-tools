@@ -284,7 +284,7 @@ export default function (chart, courseId) {
                 const measure = measures[midx];
                 const mBeat = measure.length[0] / measure.length[1] * 4;
 
-                var branchStart = false;
+                let branchStart = false;
                 // Pre-scan measure-initial events
                 for (let i = 0; i < measure.events.length; i++) {
                     const event = measure.events[i];
